@@ -17,3 +17,4 @@ It is designed to run on a **Raspberry Pi**, but works on any system with Python
 
 ## Project Structure
 
+![Project Result](images/result.png)
